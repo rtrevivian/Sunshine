@@ -4,6 +4,8 @@
     android:layout_height="wrap_content"
     android:gravity="center_vertical"
     android:minHeight="@dimen/fab_min_height"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
     android:id="@+id/list_item_forecast_textview">
 
 </TextView>
